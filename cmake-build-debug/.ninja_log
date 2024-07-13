@@ -1,0 +1,7 @@
+# ninja log v6
+6	397	7425364688208454	CMakeFiles/C++_Univesity_Code.dir/src/DirectoryManager.cpp.obj	8009eef59ae41a93
+4	271	7425368852929090	C++_Univesity_Code.exe	31ebc1f522d73f4
+3	258	7425364688178440	CMakeFiles/C++_Univesity_Code.dir/src/ClassworkOrganiser.cpp.obj	f0c5eb546e2f013d
+2	279	7425378801640752	build.ninja	686c0bb389070aa8
+4	212	7425364688188450	CMakeFiles/C++_Univesity_Code.dir/src/SubjectManager.cpp.obj	2606a66c1d1b3813
+1	557	7425364688158441	CMakeFiles/C++_Univesity_Code.dir/src/main.cpp.obj	ca1da12b969c6b05

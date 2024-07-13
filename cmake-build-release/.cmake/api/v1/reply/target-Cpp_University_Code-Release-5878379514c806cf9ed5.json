@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.exe"
+			"path" : "C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/Release/Cpp_University_Code.exe"
 		},
 		{
-			"path" : "C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.pdb"
+			"path" : "C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/Release/Cpp_University_Code.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -38,7 +38,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -fdiagnostics-color=always"
+					"fragment" : "-O3 -DNDEBUG -fdiagnostics-color=always"
 				}
 			],
 			"language" : "CXX",
@@ -55,17 +55,18 @@
 				0,
 				1,
 				2,
-				3
+				3,
+				4
 			]
 		}
 	],
-	"id" : "C++_University_Code::@6890427a1f51a3e7e1df",
+	"id" : "Cpp_University_Code::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g",
+				"fragment" : "-O3 -DNDEBUG",
 				"role" : "flags"
 			},
 			{
@@ -79,8 +80,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "C++_University_Code",
-	"nameOnDisk" : "C++_University_Code.exe",
+	"name" : "Cpp_University_Code",
+	"nameOnDisk" : "Cpp_University_Code.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -95,7 +96,8 @@
 				0,
 				1,
 				2,
-				3
+				3,
+				4
 			]
 		}
 	],
@@ -123,6 +125,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "src/DirectoryManager.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/UserInputHandler.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

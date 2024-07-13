@@ -1,33 +1,20 @@
 # ninja log v6
 10	399	7425382423751754	CMakeFiles/C++_Univesity_Code.dir/src/DirectoryManager.cpp.obj	ac7737d89d086219
 6	258	7425382423701749	CMakeFiles/C++_Univesity_Code.dir/src/ClassworkOrganiser.cpp.obj	ac62e017237eb51e
+12	419	7425509238634081	CMakeFiles/Cpp_University_Code.dir/src/UserInputHandler.cpp.obj	39bc9c307d58a521
 8	213	7425382423731748	CMakeFiles/C++_Univesity_Code.dir/src/SubjectManager.cpp.obj	76f0838d11c57539
-1	201	7425440572702652	build.ninja	686c0bb389070aa8
+1	201	7425550040238647	build.ninja	686c0bb389070aa8
 3	687	7425407978430271	CMakeFiles/C++_Univesity_Code.dir/src/main.cpp.obj	3a425a1fea3c7ded
+1	413	7425509238527083	CMakeFiles/Cpp_University_Code.dir/src/main.cpp.obj	d5977ee857ab8b7c
 7	399	7425416954206330	CMakeFiles/C++_University_Code.dir/src/DirectoryManager.cpp.obj	447b362bb0ea2a79
 5	198	7425416954186324	CMakeFiles/C++_University_Code.dir/src/SubjectManager.cpp.obj	2a93e429d5b67b67
 6	253	7425429442578823	CMakeFiles/C++_University_Code.dir/src/ClassworkOrganiser.cpp.obj	841dc8b4d7964523
-3	562	7425440267096892	CMakeFiles/C++_University_Code.dir/src/main.cpp.obj	7126f644e0b67526
-549	642	7425416959633301	C++_University_Code.exe	2c64597df9f91789
+3	406	7425499677195963	CMakeFiles/C++_University_Code.dir/src/main.cpp.obj	7126f644e0b67526
 4	84	7425419022159922	/bin/C++_University_Code.exe	58ae8f9baaa450c4
-563	648	7425440272696883	C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.exe	99a26fca0909f591
-4	552	7425441851600694	CMakeFiles/C++_University_Code.dir/src/main.cpp.obj	7126f644e0b67526
-552	646	7425441857090699	C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.exe	99a26fca0909f591
-3	556	7425442425220715	CMakeFiles/C++_University_Code.dir/src/main.cpp.obj	7126f644e0b67526
-556	650	7425442430750723	C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.exe	99a26fca0909f591
-4	537	7425443827497026	CMakeFiles/C++_University_Code.dir/src/main.cpp.obj	7126f644e0b67526
-537	646	7425443832827016	C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.exe	99a26fca0909f591
-3	538	7425444690304529	CMakeFiles/C++_University_Code.dir/src/main.cpp.obj	7126f644e0b67526
-539	634	7425444695654532	C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.exe	99a26fca0909f591
-3	535	7425445360850138	CMakeFiles/C++_University_Code.dir/src/main.cpp.obj	7126f644e0b67526
-535	677	7425445366169825	C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.exe	99a26fca0909f591
-4	538	7425446844928946	CMakeFiles/C++_University_Code.dir/src/main.cpp.obj	7126f644e0b67526
-538	651	7425446850278950	C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.exe	99a26fca0909f591
-3	533	7425447459506612	CMakeFiles/C++_University_Code.dir/src/main.cpp.obj	7126f644e0b67526
-533	629	7425447464806618	C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.exe	99a26fca0909f591
-3	552	7425448639823265	CMakeFiles/C++_University_Code.dir/src/main.cpp.obj	7126f644e0b67526
-553	649	7425448645313257	C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.exe	99a26fca0909f591
-4	553	7425448933987999	CMakeFiles/C++_University_Code.dir/src/main.cpp.obj	7126f644e0b67526
-553	657	7425448939477980	C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.exe	99a26fca0909f591
-4	580	7425450937847830	CMakeFiles/C++_University_Code.dir/src/main.cpp.obj	7126f644e0b67526
-581	669	7425450943617839	C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.exe	99a26fca0909f591
+7	196	7425498786130594	CMakeFiles/C++_University_Code.dir/src/signal_handler.cpp.obj	31affd86070a5ebb
+419	524	7425509242704068	Cpp_University_Code.exe	747fd0874320c581
+6	401	7425499677215977	CMakeFiles/C++_University_Code.dir/src/UserInputHandler.cpp.obj	2b3c17a27a411dc9
+4	213	7425509238567049	CMakeFiles/Cpp_University_Code.dir/src/SubjectManager.cpp.obj	efb9ae200c7c709b
+3	253	7425509238547092	CMakeFiles/Cpp_University_Code.dir/src/ClassworkOrganiser.cpp.obj	848605006cbdd75
+9	401	7425509238604092	CMakeFiles/Cpp_University_Code.dir/src/DirectoryManager.cpp.obj	66c7d33795460514
+3	122	7425510202895624	C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/Debug/Cpp_University_Code.exe	b0adc8875f522991

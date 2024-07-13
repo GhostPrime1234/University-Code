@@ -995,7 +995,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C++_University_Code"
+			"value" : "Cpp_University_Code"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1388,6 +1388,42 @@
 			],
 			"type" : "BOOL",
 			"value" : "FALSE"
+		},
+		{
+			"name" : "Cpp_University_Code_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/cmake-build-debug"
+		},
+		{
+			"name" : "Cpp_University_Code_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "Cpp_University_Code_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code"
 		},
 		{
 			"name" : "EXECUTABLE_OUTPUT_PATH",

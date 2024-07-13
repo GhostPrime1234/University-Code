@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "C++_Univesity_Code.exe"
+			"path" : "C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.exe"
 		},
 		{
-			"path" : "C++_Univesity_Code.pdb"
+			"path" : "C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/bin/C++_University_Code.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 6,
+				"line" : 7,
 				"parent" : 0
 			}
 		]
@@ -59,7 +59,7 @@
 			]
 		}
 	],
-	"id" : "C++_Univesity_Code::@6890427a1f51a3e7e1df",
+	"id" : "C++_University_Code::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -79,8 +79,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "C++_Univesity_Code",
-	"nameOnDisk" : "C++_Univesity_Code.exe",
+	"name" : "C++_University_Code",
+	"nameOnDisk" : "C++_University_Code.exe",
 	"paths" : 
 	{
 		"build" : ".",

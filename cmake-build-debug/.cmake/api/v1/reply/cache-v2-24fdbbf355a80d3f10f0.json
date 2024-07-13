@@ -2,6 +2,78 @@
 	"entries" : 
 	[
 		{
+			"name" : "C++_University_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/cmake-build-debug"
+		},
+		{
+			"name" : "C++_University_Code_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/cmake-build-debug"
+		},
+		{
+			"name" : "C++_University_Code_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "C++_University_Code_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code"
+		},
+		{
+			"name" : "C++_University_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "C++_University_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code"
+		},
+		{
 			"name" : "C++_Univesity_Code_BINARY_DIR",
 			"properties" : 
 			[
@@ -68,6 +140,18 @@
 			],
 			"type" : "FILEPATH",
 			"value" : "C:/Users/Michael/mingw64/mingw64/bin/ar.exe"
+		},
+		{
+			"name" : "CMAKE_BACKWARDS_COMPATIBILITY",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "For backwards compatibility, what version of CMake commands and syntax should this version of CMake try to support."
+				}
+			],
+			"type" : "STRING",
+			"value" : "2.4"
 		},
 		{
 			"name" : "CMAKE_BUILD_TYPE",
@@ -911,7 +995,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C++_Univesity_Code"
+			"value" : "C++_University_Code"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1304,6 +1388,30 @@
 			],
 			"type" : "BOOL",
 			"value" : "FALSE"
+		},
+		{
+			"name" : "EXECUTABLE_OUTPUT_PATH",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Single output directory for building all executables."
+				}
+			],
+			"type" : "PATH",
+			"value" : ""
+		},
+		{
+			"name" : "LIBRARY_OUTPUT_PATH",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Single output directory for building all libraries."
+				}
+			],
+			"type" : "PATH",
+			"value" : ""
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

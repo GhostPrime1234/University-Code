@@ -15,6 +15,24 @@
 ########################
 
 //Value Computed by CMake
+C++_University_BINARY_DIR:STATIC=C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/cmake-build-debug
+
+//Value Computed by CMake
+C++_University_Code_BINARY_DIR:STATIC=C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/cmake-build-debug
+
+//Value Computed by CMake
+C++_University_Code_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+C++_University_Code_SOURCE_DIR:STATIC=C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code
+
+//Value Computed by CMake
+C++_University_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+C++_University_SOURCE_DIR:STATIC=C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code
+
+//Value Computed by CMake
 C++_Univesity_Code_BINARY_DIR:STATIC=C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/cmake-build-debug
 
 //Value Computed by CMake
@@ -28,6 +46,10 @@ CMAKE_ADDR2LINE:FILEPATH=C:/Users/Michael/mingw64/mingw64/bin/addr2line.exe
 
 //Path to a program.
 CMAKE_AR:FILEPATH=C:/Users/Michael/mingw64/mingw64/bin/ar.exe
+
+//For backwards compatibility, what version of CMake commands and
+// syntax should this version of CMake try to support.
+CMAKE_BACKWARDS_COMPATIBILITY:STRING=2.4
 
 //Choose the type of build, options are: None Debug Release RelWithDebInfo
 // MinSizeRel ...
@@ -166,7 +188,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=C++_Univesity_Code
+CMAKE_PROJECT_NAME:STATIC=C++_University_Code
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/Users/Michael/mingw64/mingw64/bin/ranlib.exe
@@ -250,6 +272,12 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 // during the make.  This is useful for debugging only. With Visual
 // Studio IDE projects all commands are done without /nologo.
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
+
+//Single output directory for building all executables.
+EXECUTABLE_OUTPUT_PATH:PATH=
+
+//Single output directory for building all libraries.
+LIBRARY_OUTPUT_PATH:PATH=
 
 
 ########################

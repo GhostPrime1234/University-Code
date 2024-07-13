@@ -11,7 +11,7 @@
 # =============================================================================
 
 # =============================================================================
-# Project: C++_Univesity_Code
+# Project: C++_University_Code
 # Configurations: Debug
 # =============================================================================
 
@@ -41,55 +41,55 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/Michael/OneDrive$ -$ University$ of$ Wollongong/UOW/University$ Code/C++_University$ Code/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target C++_Univesity_Code
+# Object build statements for EXECUTABLE target C++_University_Code
 
 
 #############################################
-# Order-only phony target for C++_Univesity_Code
+# Order-only phony target for C++_University_Code
 
-build cmake_object_order_depends_target_C++_Univesity_Code: phony || CMakeFiles/C++_Univesity_Code.dir
+build cmake_object_order_depends_target_C++_University_Code: phony || CMakeFiles/C++_University_Code.dir
 
-build CMakeFiles/C++_Univesity_Code.dir/src/main.cpp.obj: CXX_COMPILER__C.2b.2b_Univesity_Code_unscanned_Debug C$:/Users/Michael/OneDrive$ -$ University$ of$ Wollongong/UOW/University$ Code/C++_University$ Code/src/main.cpp || cmake_object_order_depends_target_C++_Univesity_Code
-  DEP_FILE = CMakeFiles\C++_Univesity_Code.dir\src\main.cpp.obj.d
+build CMakeFiles/C++_University_Code.dir/src/main.cpp.obj: CXX_COMPILER__C.2b.2b_University_Code_unscanned_Debug C$:/Users/Michael/OneDrive$ -$ University$ of$ Wollongong/UOW/University$ Code/C++_University$ Code/src/main.cpp || cmake_object_order_depends_target_C++_University_Code
+  DEP_FILE = CMakeFiles\C++_University_Code.dir\src\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\C++_Univesity_Code.dir
-  OBJECT_FILE_DIR = CMakeFiles\C++_Univesity_Code.dir\src
+  OBJECT_DIR = CMakeFiles\C++_University_Code.dir
+  OBJECT_FILE_DIR = CMakeFiles\C++_University_Code.dir\src
 
-build CMakeFiles/C++_Univesity_Code.dir/src/ClassworkOrganiser.cpp.obj: CXX_COMPILER__C.2b.2b_Univesity_Code_unscanned_Debug C$:/Users/Michael/OneDrive$ -$ University$ of$ Wollongong/UOW/University$ Code/C++_University$ Code/src/ClassworkOrganiser.cpp || cmake_object_order_depends_target_C++_Univesity_Code
-  DEP_FILE = CMakeFiles\C++_Univesity_Code.dir\src\ClassworkOrganiser.cpp.obj.d
+build CMakeFiles/C++_University_Code.dir/src/ClassworkOrganiser.cpp.obj: CXX_COMPILER__C.2b.2b_University_Code_unscanned_Debug C$:/Users/Michael/OneDrive$ -$ University$ of$ Wollongong/UOW/University$ Code/C++_University$ Code/src/ClassworkOrganiser.cpp || cmake_object_order_depends_target_C++_University_Code
+  DEP_FILE = CMakeFiles\C++_University_Code.dir\src\ClassworkOrganiser.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\C++_Univesity_Code.dir
-  OBJECT_FILE_DIR = CMakeFiles\C++_Univesity_Code.dir\src
+  OBJECT_DIR = CMakeFiles\C++_University_Code.dir
+  OBJECT_FILE_DIR = CMakeFiles\C++_University_Code.dir\src
 
-build CMakeFiles/C++_Univesity_Code.dir/src/SubjectManager.cpp.obj: CXX_COMPILER__C.2b.2b_Univesity_Code_unscanned_Debug C$:/Users/Michael/OneDrive$ -$ University$ of$ Wollongong/UOW/University$ Code/C++_University$ Code/src/SubjectManager.cpp || cmake_object_order_depends_target_C++_Univesity_Code
-  DEP_FILE = CMakeFiles\C++_Univesity_Code.dir\src\SubjectManager.cpp.obj.d
+build CMakeFiles/C++_University_Code.dir/src/SubjectManager.cpp.obj: CXX_COMPILER__C.2b.2b_University_Code_unscanned_Debug C$:/Users/Michael/OneDrive$ -$ University$ of$ Wollongong/UOW/University$ Code/C++_University$ Code/src/SubjectManager.cpp || cmake_object_order_depends_target_C++_University_Code
+  DEP_FILE = CMakeFiles\C++_University_Code.dir\src\SubjectManager.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\C++_Univesity_Code.dir
-  OBJECT_FILE_DIR = CMakeFiles\C++_Univesity_Code.dir\src
+  OBJECT_DIR = CMakeFiles\C++_University_Code.dir
+  OBJECT_FILE_DIR = CMakeFiles\C++_University_Code.dir\src
 
-build CMakeFiles/C++_Univesity_Code.dir/src/DirectoryManager.cpp.obj: CXX_COMPILER__C.2b.2b_Univesity_Code_unscanned_Debug C$:/Users/Michael/OneDrive$ -$ University$ of$ Wollongong/UOW/University$ Code/C++_University$ Code/src/DirectoryManager.cpp || cmake_object_order_depends_target_C++_Univesity_Code
-  DEP_FILE = CMakeFiles\C++_Univesity_Code.dir\src\DirectoryManager.cpp.obj.d
+build CMakeFiles/C++_University_Code.dir/src/DirectoryManager.cpp.obj: CXX_COMPILER__C.2b.2b_University_Code_unscanned_Debug C$:/Users/Michael/OneDrive$ -$ University$ of$ Wollongong/UOW/University$ Code/C++_University$ Code/src/DirectoryManager.cpp || cmake_object_order_depends_target_C++_University_Code
+  DEP_FILE = CMakeFiles\C++_University_Code.dir\src\DirectoryManager.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\C++_Univesity_Code.dir
-  OBJECT_FILE_DIR = CMakeFiles\C++_Univesity_Code.dir\src
+  OBJECT_DIR = CMakeFiles\C++_University_Code.dir
+  OBJECT_FILE_DIR = CMakeFiles\C++_University_Code.dir\src
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target C++_Univesity_Code
+# Link build statements for EXECUTABLE target C++_University_Code
 
 
 #############################################
-# Link the executable C++_Univesity_Code.exe
+# Link the executable C:\Users\Michael\OneDrive - University of Wollongong\UOW\University Code\C++_University Code\bin\C++_University_Code.exe
 
-build C++_Univesity_Code.exe: CXX_EXECUTABLE_LINKER__C.2b.2b_Univesity_Code_Debug CMakeFiles/C++_Univesity_Code.dir/src/main.cpp.obj CMakeFiles/C++_Univesity_Code.dir/src/ClassworkOrganiser.cpp.obj CMakeFiles/C++_Univesity_Code.dir/src/SubjectManager.cpp.obj CMakeFiles/C++_Univesity_Code.dir/src/DirectoryManager.cpp.obj
+build C$:/Users/Michael/OneDrive$ -$ University$ of$ Wollongong/UOW/University$ Code/C++_University$ Code/bin/C++_University_Code.exe: CXX_EXECUTABLE_LINKER__C.2b.2b_University_Code_Debug CMakeFiles/C++_University_Code.dir/src/main.cpp.obj CMakeFiles/C++_University_Code.dir/src/ClassworkOrganiser.cpp.obj CMakeFiles/C++_University_Code.dir/src/SubjectManager.cpp.obj CMakeFiles/C++_University_Code.dir/src/DirectoryManager.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\C++_Univesity_Code.dir
+  OBJECT_DIR = CMakeFiles\C++_University_Code.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = C++_Univesity_Code.exe
-  TARGET_IMPLIB = libC++_Univesity_Code.dll.a
-  TARGET_PDB = C++_Univesity_Code.exe.dbg
+  TARGET_FILE = "C:\Users\Michael\OneDrive - University of Wollongong\UOW\University Code\C++_University Code\bin\C++_University_Code.exe"
+  TARGET_IMPLIB = libC++_University_Code.dll.a
+  TARGET_PDB = C++_University_Code.exe.dbg
 
 
 #############################################
@@ -117,7 +117,9 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build C++_Univesity_Code: phony C++_Univesity_Code.exe
+build C++_University_Code: phony C$:/Users/Michael/OneDrive$ -$ University$ of$ Wollongong/UOW/University$ Code/C++_University$ Code/bin/C++_University_Code.exe
+
+build C++_University_Code.exe: phony C$:/Users/Michael/OneDrive$ -$ University$ of$ Wollongong/UOW/University$ Code/C++_University$ Code/bin/C++_University_Code.exe
 
 # =============================================================================
 # Folder targets.
@@ -127,7 +129,7 @@ build C++_Univesity_Code: phony C++_Univesity_Code.exe
 #############################################
 # Folder: C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/cmake-build-debug
 
-build all: phony C++_Univesity_Code.exe
+build all: phony C$:/Users/Michael/OneDrive$ -$ University$ of$ Wollongong/UOW/University$ Code/C++_University$ Code/bin/C++_University_Code.exe
 
 # =============================================================================
 # Built-in targets

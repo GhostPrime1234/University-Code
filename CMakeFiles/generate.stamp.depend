@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/CMakeFiles/3.30.0/CMakeCCompiler.cmake
+C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/CMakeFiles/3.30.0/CMakeCXXCompiler.cmake
+C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/CMakeFiles/3.30.0/CMakeRCCompiler.cmake
+C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/CMakeFiles/3.30.0/CMakeSystem.cmake
+C:/Users/Michael/OneDrive - University of Wollongong/UOW/University Code/C++_University Code/CMakeLists.txt
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeCInformation.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeCXXInformation.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeGenericSystem.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeRCInformation.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/Compiler/MSVC-C.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/Compiler/MSVC.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/Platform/Windows-MSVC-C.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/Platform/Windows.cmake
+C:/Users/Michael/anaconda3/Lib/site-packages/cmake/data/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake

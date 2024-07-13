@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "C++_Univesity_Code",
+					"name" : "C++_University_Code",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "C++_Univesity_Code::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-C++_Univesity_Code-Debug-444de6babe3ff155dac0.json",
-					"name" : "C++_Univesity_Code",
+					"id" : "C++_University_Code::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C++_University_Code-Debug-65d74c984285e8c41943.json",
+					"name" : "C++_University_Code",
 					"projectIndex" : 0
 				}
 			]

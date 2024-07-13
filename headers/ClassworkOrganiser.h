@@ -18,7 +18,7 @@ private:
     std::string year;
     std::map<std::string, std::vector<std::pair<std::string, std::string>>> semester_subjects;
     DirectoryManager directory_manager;
-    WeekDirectoryManager week_directory_manager;
+    [[maybe_unused]] WeekDirectoryManager week_directory_manager;
     [[maybe_unused]] SubjectManager subject_manager;
 };
 
